@@ -1,0 +1,16 @@
+﻿body, p, ul, li, article {
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial;
+    background-color: #F0DB4F;
+    color:#0094ff;
+}
+
+article {
+    border: 3px solid #D4B932;
+}
+
+body main article p {
+    font-size: 1.2em;
+    text-align: center;
+}
